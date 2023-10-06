@@ -165,4 +165,4 @@ Change the default value for each of the following five parameters to what you c
 
 
   
-## Congratulations on completing Exercise 02. You are now ready to move to [Exercise 03 - Patients](/Exercise03-Patients/README.md)
+## Congratulations on completing Exercise 02. You are now ready to move to [Patients](/Patients/README.md)
