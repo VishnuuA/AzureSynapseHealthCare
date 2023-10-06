@@ -41,6 +41,3 @@ Change the default value for each of the following five parameters to what you c
     >*Note: Make sure your Dedicated Pool is running prior to executing this pipeline.  You can see this in the SQL Pools tab under the Manage Hub.*
 
 ![image](https://user-images.githubusercontent.com/59613090/193149525-ada67b9c-90b6-466e-bde7-5546f33fac56.png)
-
-
-## Congratulations on completing Exercise 03.
