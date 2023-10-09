@@ -2,7 +2,7 @@
 
 HealthCare -  Repository provides one-click infrastructure and artifact deployment for Azure Synapse Analytics _ Big Data Analytics - Health Care Data.
 
-## Reference Architecture
+## Proposed Architecture
 ![image](https://user-images.githubusercontent.com/59613090/192642933-23285334-d36c-40e7-8fc1-2e3ed9006ba0.png)
 
 ## CONTENTS
