@@ -1,4 +1,4 @@
-# Healthcare - Azure Synapse Full Analytical Solution - End-End Demo
+# Healthcare - Analytical Solution - 
 
 HealthCare -  Repository provides one-click infrastructure and artifact deployment for Azure Synapse Analytics _ Big Data Analytics - Health Care Data.
 
